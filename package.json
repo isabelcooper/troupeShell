@@ -1,0 +1,24 @@
+{
+  "name": "troupeshell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "test": "mocha '*.test.js'",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabelcooper/troupeShell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isabelcooper/troupeShell/issues"
+  },
+  "homepage": "https://github.com/isabelcooper/troupeShell#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1"
+  }
+}
