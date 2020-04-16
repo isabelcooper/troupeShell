@@ -1,5 +1,5 @@
 {
-  "name": "troupeshell",
+  "name": "hotelBooker",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/isabelcooper/troupeShell.git"
+    "url": "git+https://github.com/isabelcooper/hotelBooker.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/isabelcooper/troupeShell/issues"
+    "url": "https://github.com/isabelcooper/hotelBooker/issues"
   },
-  "homepage": "https://github.com/isabelcooper/troupeShell#readme",
+  "homepage": "https://github.com/isabelcooper/hotelBooker#readme",
   "dependencies": {
     "ts-node": "^8.8.2",
     "typescript": "^3.8.3"
