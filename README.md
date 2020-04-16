@@ -1,4 +1,4 @@
-# troupeShell
+# hotelBooker
 
 ## Set up 
 - fork this repo to your own account 
